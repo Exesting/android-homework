@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="authorization_title">Авторизация</string>
+    <string name="email_label">Электронная почта</string>
+    <string name="password_label">Пароль</string>
+    <string name="continue_button">Далее</string>
+    <string name="result_image_description">Картинка результата авторизации</string>
+    <string name="password_correct">Пароль совпал</string>
+    <string name="password_incorrect">Пароль не совпал</string>
+    <string name="generated_password_label">Сгенерированный пароль</string>
+    <string name="show_password">Показать</string>
+    <string name="hide_password">Скрыть</string>
+    <string name="back_button">Вернуться на первый экран</string>
+</resources>
